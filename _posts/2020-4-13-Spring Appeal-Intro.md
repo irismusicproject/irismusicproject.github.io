@@ -3,9 +3,7 @@ layout: post
 title: Our 2020 Spring Fundraising Appeal
 ---
 
-Hello Friends!
-
-Welcome to Musical Offerings: Iris Music's Spring Fundraising Appeal!  Join us each morning, from April 20-25, as we kick off our spring campaign with collaborative chamber music performances featuring Iris Musicians.  
+Hello Friends! Welcome to Musical Offerings: Iris Music's Spring Fundraising Appeal!  Join us each morning, from April 20-25, as we kick off our spring campaign with collaborative chamber music performances featuring Iris Musicians.  
 
 This is a particularly dark moment for older adults who are now more isolated than ever. On April 6, we began remote programming for the Charles E. Smith Life Communities in Rockville MD, delivering innovative daily programming using high tech solutions like closed circuit television and the Internet. Additionally, we are personally engaging residents using email and phone calls, involving them in interactive programming that fights isolation.
 
