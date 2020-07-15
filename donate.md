@@ -6,7 +6,7 @@ permalink: /donate/
 
 Thank you so much for considering a donation to the Iris Music Project!
 
-All donations are tax deductible.  There are two simple ways to donate: 
+All donations are tax deductible.  There are two simple ways to donate:
 
 1. Make check out to “Iris Music Project” and mail to:
 
@@ -15,8 +15,3 @@ All donations are tax deductible.  There are two simple ways to donate:
    ​		Columbia MD 21045
 
 2. Click [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=J5D5F8NWDLK6W&source=url) to donate via Paypal.
-
-```
-[//]: # link for QR code would be /images/QR Code.png
-```
-
