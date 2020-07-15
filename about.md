@@ -17,9 +17,3 @@ The Iris Music Project is dedicated to exploring this connection between music a
 ### Contact me
 
 [laurenirismusic@gmail.com](mailto:laurenirismusic@gmail.com)
-
-### Donate
-
-Click [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EXE2XD8TL565S&source=url) to donate to Iris Music Project via Paypal!
-
-![QR code](/images/QR Code.png)
