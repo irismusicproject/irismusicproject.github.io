@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Iris](/images/iris.png)
+
 The mission of the Iris Music Project, a 501(c)(3) non-profit, is to strengthen community wellness through daily musical experiences that foster joy, understanding, purpose and inspiration.
 
 We partner with continuing care retirement communities, senior centers and other community venues to provide musical programming and experiences throughout these communities.
