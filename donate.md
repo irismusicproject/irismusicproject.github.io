@@ -4,7 +4,7 @@ title: Donate to the Iris Music Project
 permalink: /donate/
 ---
 
-Thank you so much for considering a donation to the Iris Music Project!
+Thank you so much for supporting the Iris Music Project!
 
 All donations are tax deductible.  There are two simple ways to donate:
 
