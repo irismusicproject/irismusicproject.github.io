@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring 2020 Appeal: Musical Offerings
+title: Musical Offerings from our Spring 2020 Appeal
 ---
 
 Thank you to everyone who contributed to our Spring 2020 Appeal! Below are some examples of the music we have produced during the pandemic.
