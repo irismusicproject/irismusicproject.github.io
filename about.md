@@ -4,12 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The mission of the Iris Music Project, a 501(c)(3) non-profit, is to strengthen community wellness through daily musical experiences that foster joy, understanding, purpose and inspiration.
 
-### More Information
+We partner with continuing care retirement communities, senior centers and other community venues to provide musical programming and experiences throughout these communities.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Note from founder and cellist Lauren Latessa
+
+I have always believed that my responsibility as a musician is to tap into the struggles and joys of the human condition.  In no moment do you understand this more clearly than walking into a room, knowing that your music will be the last sounds heard by a dear friend.  
+
+The Iris Music Project is dedicated to exploring this connection between music and well-being.  Music has the awesome power to give all stages of life depth, beauty and meaning.  Used correctly, it makes all the difference: a moment of connection, a peaceful breath, a final smile.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[laurenirismusic@gmail.com](mailto:laurenirismusic@gmail.com)
+
+### Donate
+
+Click [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EXE2XD8TL565S&source=url) to donate to Iris Music Project via Paypal!
+
+![QR code](/images/QR Code.png)
