@@ -20,4 +20,5 @@ All donations are tax deductible.  There are two simple ways to donate:
    ​		9607 Rocksparkle Row  
    ​		Columbia MD 21045
 
-2. Click [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=J5D5F8NWDLK6W&source=url) to donate via Paypal.
+2. [Donate via credit card](https://irismusicproject.github.io/stripe.html)
+3. [Donate via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=J5D5F8NWDLK6W&source=url)
