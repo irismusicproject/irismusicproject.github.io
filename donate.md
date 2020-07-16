@@ -10,7 +10,7 @@ All donations are tax deductible.  There are two simple ways to donate:
 
 1. Make check out to “Iris Music Project” and mail to:  
 
-   ​		Iris Music Project 
+   ​		Iris Music Project  
    ​		9607 Rocksparkle Row  
    ​		Columbia MD 21045
 
