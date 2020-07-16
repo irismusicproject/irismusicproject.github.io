@@ -6,6 +6,12 @@ permalink: /donate/
 
 Thank you so much for supporting the Iris Music Project!
 
+## Become a monthly supporter
+
+Please visit our Patreon website to become a monthly supporter of the Iris Music Project: patreon.com/irismusicproject
+
+## One-time donations
+
 All donations are tax deductible.  There are two simple ways to donate:
 
 1. Make check out to “Iris Music Project” and mail to:  
