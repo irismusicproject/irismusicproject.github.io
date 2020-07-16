@@ -8,7 +8,7 @@ Thank you so much for supporting the Iris Music Project!
 
 ## Become a monthly supporter
 
-Please visit our Patreon website to become a monthly supporter of the Iris Music Project: patreon.com/irismusicproject
+Please visit our Patreon website to become a monthly supporter of the Iris Music Project: [patreon.com/irismusicproject](https://www.patreon.com/irismusicproject)
 
 ## One-time donations
 
